@@ -11,6 +11,7 @@ public class Myconfigration {
         System.out.println("1111111master分支1111");
         System.out.println("合并完成后");
         System.out.println("dev数据提交");
+        System.out.println("dev2分支数据提交");
     }
     ///金大爷
 
